@@ -1,0 +1,41 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<title> My Web Page </title>
+
+</head>
+
+<body>
+
+     <ol>
+     
+     <li> CD </li>  
+     <li> DVD </li>
+     <li> Blu Ray </li>  
+
+     </ol>
+
+         <ul>
+     
+     <li> CD </li>  
+     <li> DVD </li>
+     <li> Blu Ray </li>  
+
+     </ul>
+
+</body>
+
+</html>
+
+output:
+
+1.CD
+2.DVD
+3.Blu Ray
+
+. CD
+. DVD
+. Blu Ray
