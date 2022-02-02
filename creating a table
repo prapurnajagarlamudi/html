@@ -1,0 +1,30 @@
+<!doctype html>
+
+<html>
+
+<head> </head>
+<body>
+
+<table>
+<tr>
+   <tc> planets </tc>
+   <tc> oceans </tc>
+   <tc> deserts </tc>
+</tr>
+
+<tr>
+   <td> earth &nbsp </td>
+   <td> pacific </td>
+   <td> sahara </td>
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+output:
+
+planets oceans deserts
+earth  	pacific	sahara
