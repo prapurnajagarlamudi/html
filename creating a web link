@@ -1,0 +1,138 @@
+<!outside>
+
+<!doctype html>
+<html>
+<head> </head>
+<body>
+
+<p> Please click on this link
+
+<a href="https://youtu.be/U4UHoiK6Oo4"> 
+this is a video of html </a>
+
+</p>
+
+</body>
+</html>
+
+output:
+Please click on this link this is a video of html
+
+
+<!inside>
+<!doctype html>
+<html>
+<head> </head>
+<body>
+
+<ul>
+   <li> <a href="#birds"> Birds section </a> </li>
+   <li> <a href="#ducks"> Ducks section </a> </li>
+</ul>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p> <a name="birds"> This is the article about birds </a> </p>
+<p> <a name="ducks"> This is the article about ducks </a> </p>
+
+</body>
+<html>
+
+output:
+
+Birds section
+Ducks section
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is the article about birds
+
+This is the article about ducks
